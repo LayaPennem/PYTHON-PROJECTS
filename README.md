@@ -4,5 +4,5 @@
 ## ✅ Projects
 **🔢 Number Guessing Game
 
-More projects like calculator, file organizer, and to-do list will be added soon!
+ More projects like calculator, file organizer, and to-do list will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
