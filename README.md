@@ -15,7 +15,7 @@ A simple game where the user tries to guess a randomly generated number between 
 - `if-elif-else` for comparisons
 - `input()` for user interaction
 
-📄 [View Code](NUMBER GUESSING GAME.py)
+📄 [View Code](number guessing game.py)
 
 ## 🧮 Simple Calculator
 
