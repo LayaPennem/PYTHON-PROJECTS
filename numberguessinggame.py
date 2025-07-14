@@ -23,5 +23,8 @@ def runGuess():
             
         else:
             print(hint)
+            
+if __name__ == '__main__':
+    runGuess()
     
             
