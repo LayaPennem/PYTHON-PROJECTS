@@ -15,7 +15,7 @@ A simple game where the user tries to guess a randomly generated number between 
 - `if-elif-else` for comparisons
 - `input()` for user interaction
 
-📄 [View Code](number_guessing.py)
+📄 [View Code](NUMBER GUESSING GAME.py)
 
 ## 🧮 Simple Calculator
 
@@ -29,5 +29,5 @@ A calculator that performs addition and subtraction repeatedly until the user ex
 
 📄 [View Code](calculator.py)
 
- More projects like calculator, file organizer, and to-do list will be added soon!
+ More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
