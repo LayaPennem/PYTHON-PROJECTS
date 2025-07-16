@@ -4,6 +4,7 @@
 ## ✅ Projects
 **1. [Number Guessing Game](#number-guessing-game)
 2. [Simple Calculator](#simple-calculator)
+3.[password generator](#password-generator)
 
 ## 🔢 Number Guessing Game
 
@@ -28,6 +29,22 @@ A calculator that performs addition and subtraction repeatedly until the user ex
 - User input handling
 
 📄 [View Code](calculator.py)
+
+##🔐 Password Generator:
+
+A simple and secure password generator built using Python. This script creates strong, random passwords with a combination of uppercase letters, lowercase letters, numbers, and special characters.
+
+## 📌 Features
+
+- Generates strong passwords with:
+  - ✅ Uppercase letters
+  - ✅ Lowercase letters
+  - ✅ Numbers
+  - ✅ Symbols
+- Ensures minimum security by including at least one character from each category
+- Customizable password length
+- Console-based (easy to run on any system)
+- [view code](
 
  More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
