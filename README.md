@@ -5,7 +5,7 @@
 **1. [Number Guessing Game](#number-guessing-game)
 2. [Simple Calculator](#simple-calculator)
 3.[password generator](#password-generator)
-4.[rock-paper-scissors](#rock-paper-scissors-game)
+4.[rock-paper-scissors-game](#rock-paper-scissors-game)
 
 ## 🔢 Number Guessing Game📢
 
