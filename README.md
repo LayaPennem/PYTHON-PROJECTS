@@ -5,8 +5,9 @@
 **1. [Number Guessing Game](#number-guessing-game)
 2. [Simple Calculator](#simple-calculator)
 3.[password generator](#password-generator)
+4.[rock-paper-scissors](#rock-paper-scissors-game)
 
-## 🔢 Number Guessing Game
+## 🔢 Number Guessing Game📢
 
 A simple game where the user tries to guess a randomly generated number between 1 and 100.
 
@@ -18,7 +19,7 @@ A simple game where the user tries to guess a randomly generated number between 
 
 📄 [View Code](numberguessinggame.py)
 
-## 🧮 Simple Calculator
+## 🧮 Simple Calculator📢
 
 A calculator that performs addition and subtraction repeatedly until the user exits.
 
@@ -45,6 +46,25 @@ A simple and secure password generator built using Python. This script creates s
 - Customizable password length
 - Console-based (easy to run on any system)
 - [view code](password-generator.py)
+  
+- ### 🎮 Rock-Paper-Scissors Game:📢
+
+A simple, interactive **Rock-Paper-Scissors** game built using Python. The user plays against the computer, and the scores are tracked round by round. The game runs in the terminal and ends when the user types `'quit'`.
+## ✅ Features
+
+- User vs Computer gameplay
+- Randomized computer choice
+- Tracks score for both user and computer
+- Declares winner of each round and final game
+- Easy to understand, beginner-friendly code
+## 🔑 Key Concepts Used
+
+- `input()` and `print()` for user interaction
+- `random.choice()` to simulate computer move
+- `while` loop for continuous play
+- `if-elif-else` for game logic
+- Lists, strings, variables, and basic control flow
+- [view code](rock-paper-scissors-game.py)
 
  More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
