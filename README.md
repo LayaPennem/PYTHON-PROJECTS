@@ -30,7 +30,7 @@ A calculator that performs addition and subtraction repeatedly until the user ex
 
 📄 [View Code](calculator.py)
 
-##🔐 Password Generator:
+##🔐 Password Generator :
 
 A simple and secure password generator built using Python. This script creates strong, random passwords with a combination of uppercase letters, lowercase letters, numbers, and special characters.
 
@@ -44,7 +44,7 @@ A simple and secure password generator built using Python. This script creates s
 - Ensures minimum security by including at least one character from each category
 - Customizable password length
 - Console-based (easy to run on any system)
-- [view code](
+- [view code](password-generator.py)
 
  More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
