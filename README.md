@@ -79,6 +79,7 @@ A beginner-friendly text-based Hangman game built using Python. Guess the hidden
 - Win or lose with a clear ending message
 
 🧠 Key Concepts
+
 -random for word selection
 
 -lists to store blanks and guesses
