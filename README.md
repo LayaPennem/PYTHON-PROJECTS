@@ -85,6 +85,8 @@ A beginner-friendly text-based Hangman game built using Python. Guess the hidden
 -if/else for decision making
 -input() and string handling
 -Input validation for clean experience
+
 -[view code](hangman-game.py)
+
  More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
