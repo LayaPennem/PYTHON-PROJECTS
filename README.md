@@ -80,10 +80,15 @@ A beginner-friendly text-based Hangman game built using Python. Guess the hidden
 
 🧠 Key Concepts
 -random for word selection
+
 -lists to store blanks and guesses
+
 -loops to control game flow
+
 -if/else for decision making
+
 -input() and string handling
+
 -Input validation for clean experience
 
 -[view code](hangman-game.py)
