@@ -6,6 +6,7 @@
 2. [Simple Calculator](#simple-calculator)
 3.[password generator](#password-generator)
 4.[rock-paper-scissors-game](#rock-paper-scissors-game)
+5.[Hangman-game](#hangman-game)
 
 ## 🔢 Number Guessing Game📢
 
@@ -66,5 +67,24 @@ A simple, interactive **Rock-Paper-Scissors** game built using Python. The user 
 - Lists, strings, variables, and basic control flow
 - [view code](rock-paper-scissors-game.py)
 
+- # 🎮 Hangman Game:📢
+
+A beginner-friendly text-based Hangman game built using Python. Guess the hidden word one letter at a time before you run out of chances!
+## 📌 Features
+
+- Random word selection from a predefined list
+- Real-time display of correct guesses
+- Tracks guessed letters and remaining lives
+- Input validation and friendly feedback
+- Win or lose with a clear ending message
+
+🧠 Key Concepts
+-random for word selection
+-lists to store blanks and guesses
+-loops to control game flow
+-if/else for decision making
+-input() and string handling
+-Input validation for clean experience
+-[view code](hangman-game.py)
  More projects will be added soon!
 📌Each project is beginner-friendly and written with clean, readable code for learning purposes.
